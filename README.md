@@ -1,0 +1,1 @@
+This is a personal expense tracker, where one can add as many categories as needed, allocate budget to each of those categories, add budget and expense details, generate report in the form of pdf if needed.
